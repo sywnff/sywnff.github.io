@@ -1,0 +1,11 @@
+markdown: kramdown
+permalink: /:title/
+url: http://sywnff.github.io
+name: sywnff
+author: sywnff
+email: sywnff@gmail.com
+duoshuo: sywnff
+github: sywnff
+safe: true
+paginate: 20
+about: ""
